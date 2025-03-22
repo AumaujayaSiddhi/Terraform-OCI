@@ -1,3 +1,4 @@
+# To get more info about oci_database_autonomous_database resource visit terraform oci registry documentation(https://registry.terraform.io/providers/oracle/oci/latest/docs/resources/database_autonomous_database)
 resource "oci_database_autonomous_database" "TESTATPDB" {
   display_name = "TESTATPDB"
   db_name = "TESTATPDB"
