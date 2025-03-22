@@ -1,0 +1,5 @@
+# Ignore Terraform-related files
+*.tfstate
+*.tfstate.backup
+*.tfstate.lock.info
+oci/
